@@ -100,4 +100,4 @@ focusflow/
 
 ---
 
-Built with ❤️ by [Your Name]
+Built by Atharv Patil
